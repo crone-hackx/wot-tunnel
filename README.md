@@ -1,2 +1,6 @@
-# wot-tunnel
-world of tech tunnel apk by gaga
+# LocalVPN
+A packet interceptor for Android built on top of VpnService
+
+License: Apache v2.0
+
+Early alpha, will eat your cat!
